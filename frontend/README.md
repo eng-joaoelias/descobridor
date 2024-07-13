@@ -16,11 +16,6 @@ O projeto utiliza diversas tecnologias modernas para o desenvolvimento da aplica
   - **Lucide Icons**: Conjunto de ícones SVG utilizados na interface.
   - **axios**: Cliente HTTP baseado em Promises para fazer requisições à API backend.
   
-- **Backend:**
-  - **Node.js**: Ambiente de execução JavaScript do lado do servidor.
-  - **Express**: Framework web para Node.js para criação de APIs RESTful.
-  - **MongoDB**: Banco de dados NoSQL utilizado para armazenamento dos dados da aplicação.
-  
 ### Desafios Enfrentados
 
 #### Aprendizado de React
